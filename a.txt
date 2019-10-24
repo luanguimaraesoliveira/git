@@ -1,3 +1,7 @@
 adicionado um teste
 outro comentario
+<<<<<<< HEAD
 Eita que vai da ruim adicionado na master
+=======
+Criado uma linha no ramo teste
+>>>>>>> Teste
